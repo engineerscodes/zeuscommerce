@@ -1,5 +1,5 @@
 # zeuscommerce
-# make sure mongoDB has replica set
+# make sure mongoDB has replica set (is needed to for transiactions)
 Clone other 2 repo :
 - https://github.com/engineerscodes/KhonsuDelivery
 - https://github.com/engineerscodes/HathorConsumer
